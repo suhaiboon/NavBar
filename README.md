@@ -1,6 +1,7 @@
 # NavBar
  11th RP
+<h3>Project Screenshot </h3>
 
-![](image.png)
+![](image.jpg)
 
-![](image1.png)
+![](image1.jpg)
